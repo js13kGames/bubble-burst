@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - action
+  - adventure
 directors_cut: https://bubbleburst.reitgames.com/?referrer=js13k
 post: https://reitgames.com/news/post-mortem-bubble-burst
 # See github.com/js13kGames/hello-world for supported frontmatter
